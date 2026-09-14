@@ -1,16 +1,64 @@
-## Hi there 👋
+# FEVE Maïawella
 
-<!--
-**feve-maiawella/feve-maiawella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiante en 3ème année de BUT Informatique, à la recherche d'un stage de développement.
 
-Here are some ideas to get you started:
+## Formation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **BUT Informatique** — IUT Informatique d'Orléans, Orléans *(2024 - 2027)*
+- **Baccalauréat général**, spécialités Mathématiques, Numérique et Sciences Informatiques, mention Bien — Lycée M. de Navarre, Bourges *(2024)*
+
+## Compétences
+### Langages informatiques maîtrisés
+
+| Utilisation | Langages |
+| --- | --- |
+| Back-end | Python ; Java ; Node.js |
+| Front-end | HTML ; CSS |
+| Bases de données | SQL |
+| Scripts système | Bash |
+
+
+### Outils
+| Utilisation | Outils |
+| --- | --- |
+| Éditeur de code | VS Code ; IntelliJ IDEA |
+| Analyse de code Python | Pylint |
+| Tests unitaires Java | JUnit |
+| Gestion de versions | GitHub |
+ 
+### Bibliothèques
+ 
+| Utilisation | Bibliothèques |
+| --- | --- |
+| Framework web Python | Flask, Django |
+| Framework web Javascript | Vue.js |
+| Interfaces graphiques Java | JavaFX |
+| Connexion base de données Java | JDBC |
+
+
+## Expériences
+
+### Stage développement — IFA Bourges *(2026, 10 semaines)*
+Refonte du site de commandes et bons de commande pour le personnel.
+- **Environnement :** MariaDB, Python, Node.js
+- **Groupe :** 1 personne
+- **Rôle :** Développeuse back-end / front-end, maquettage, responsable produit, formatrice des utilisateurs, maintenance du site
+
+### Projets au sein de l'IUT *(2024 - 2026)*
+
+**Refonte du site web du club de tennis du stade poitevin** *(3 semaines)*
+- **Environnement :** Python, Flask
+- **Groupe :** 4 personnes
+- **Rôle :** Développeuse back-end / front-end
+
+**Développement d'une application pour une librairie fictive** *(3 mois)*
+- **Environnement :** Java, JavaFX, JDBC, MySQL
+- **Groupe :** 4 personnes
+- **Rôle :** Développeuse back-end / front-end, maquettage
+
+### Projet personnel *(en cours)*
+
+**Site web pour l'inventaire de la maison de vacances familiales**
+- **Environnement :** Python, MariaDB, Node.js
+- **Groupe :** 1 personne
+
