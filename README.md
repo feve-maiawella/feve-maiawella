@@ -4,8 +4,8 @@
 
 ## Formation
 
-- **BUT Informatique** — IUT Informatique d'Orléans, Orléans *(2024 - 2027)*
-- **Baccalauréat général**, spécialités Mathématiques, Numérique et Sciences Informatiques, mention Bien — Lycée M. de Navarre, Bourges *(2024)*
+- **BUT Informatique** — IUT Informatique *(2024 - 2027)*
+- **Baccalauréat général**, spécialités Mathématiques, Numérique et Sciences Informatiques, mention Bien *(2024)*
 
 ## Compétences
 ### Langages informatiques maîtrisés
